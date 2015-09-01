@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello ITP
-category: Physical Computing
+title: Hello ITP 1
+category: Applications
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).

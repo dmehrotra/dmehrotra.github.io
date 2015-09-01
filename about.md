@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Dhruv Mehrotra.  This is my blog for ITP.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Skills: HTML, CSS, Javasript, Node, Ruby, Rails, Git, SQL || NoSql
+
+Website: dhruvmehrotra.info
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dhruv.mehrotra3@gmail.com](mailto:dhruv.mehrotra3@gmail.com)

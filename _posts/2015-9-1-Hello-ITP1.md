@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello ITP 1
+title: Hello ITP
 category: Applications
 ---
 
-test
+Testing Jekyll Blog Categories.

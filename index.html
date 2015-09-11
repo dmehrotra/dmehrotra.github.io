@@ -4,9 +4,11 @@ layout: default
 	{% for category in site.categories %}
 		<h3>{{ category | first }}</h3>
 		{% for posts in category %}
-			
 		  {% for post in posts %}
-		      > <a href="{{ site.baseurl }}{{ post.url }}" class="">{{post.title}}</a>
+		    {% if post.title %}
+		     > <a href="{{ site.baseurl }}{{ post.url }}" class="">{{post.title}}</a>
+		      <br>
+		     {% endif %} 
 		  {% endfor %}
 		{% endfor %}
 	{% endfor %}

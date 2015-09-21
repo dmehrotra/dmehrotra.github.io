@@ -4,7 +4,7 @@ title: Observation - Big Yellow Button
 category: Physical Computing
 ---
 
-I always have a great time observing people at the crosswalk on Washington and Atlantic.  Atlantic Ave is a wide street with lots of traffic, a healthy individual might need about 25 seconds to cross.  But because it is main commercial road for trucks, the light changes quite infrequently. So if you are unlucky enough to be stuck on one side of Washington, you could be there for a while. 
+I always have a great time observing people at the crosswalk on Washington and Atlantic. Atlantic Ave is a wide street with lots of traffic, a healthy individual might need about 25 seconds to cross.  But because it is main commercial road for trucks, the light changes quite infrequently. So if you are unlucky enough to be stuck on one side of Washington, you could be there for a while. 
 
 But luckily for us the city has generously installed a gigantic yellow button. Which, upon pressing, one can only assume that someone, something, or some higher being is notified that you are waiting to cross the street. 
 

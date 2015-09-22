@@ -1,5 +1,6 @@
 module Jekyll
   class Vimeo < Liquid::Tag
+    safe true
     @@width = 500
     @@height = 281
 

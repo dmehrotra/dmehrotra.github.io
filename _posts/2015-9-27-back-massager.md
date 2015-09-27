@@ -22,7 +22,7 @@ Because I wanted to be as precise as possible, I drew two inch lines down my woo
 
 My solution was to use a wooden stop to determine the length of each piece of wood. 
 
-![series ]({{ site.url }}/images/9.jpg)
+![series ]({{ site.url }}/images/8.jpg)
 
 This insured that all of my pieces were cut to the same size. 
 

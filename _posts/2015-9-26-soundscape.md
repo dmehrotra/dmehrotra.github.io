@@ -8,7 +8,7 @@ category: Video and Sound
 Your browser does not support the audio element.
 </audio>
 
-For my soundscape I decided vcreate an audio representantion of data being sent through telecom infrastructures and transatlantic wires.
+For my soundscape I decided create an audio representantion of data being sent through telecom infrastructures and transatlantic wires.
 
 All cellular phone networks worldwide use a portion of the radio frequency spectrum designated as ultra high frequency, or "UHF". These radio waves are sent to cellular repeaters until they reach a tower.  Fiber optic cables relay this information, coded in pulses of light, to the intended destination.
 

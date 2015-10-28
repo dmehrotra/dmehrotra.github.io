@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Final Project: Idea and Concept
+title: Final Part One
 category: Physical Computing
 ---
+
 
 Over the last year I have been becoming increasingly more concerned with the future of privacy.  I attended a conferance two weeks ago at Bard in which Edward Snowden, amongst many other speakers, stressed the ethical importance of technology producers and artists to fight to maintain privacy for themselves and others.  In a class I am taking about surveillance, we are learning about more and more aggressive approaches to information gathering and population control that the State employs. 
 

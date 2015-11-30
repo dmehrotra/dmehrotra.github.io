@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Part Four - More Formal Project Plan
+title: Project Plan
 category: Physical Computing
 ---
 
@@ -8,9 +8,9 @@ category: Physical Computing
 
 It is becoming clear that with technological innovation in information gathering there seems to be no clear ethical boundary for what a state can or cannot do with regards to individual privacy. This type of surveillance implies the presumptive guilt of each citizen, and thus the burden of maintaining ones own privacy lies on the citizen herself. This is a fundemental problem and one that results in a unique type of anxiety that can only be felt by those who are being surveilled.
 
-My idea for this project is to invert the gaze of surviellance in order to reproduce that unique anxiety for those on the other side of surviellance.
+My idea for this project is to invert the gaze of surveillance in order to reproduce that unique anxiety for those on the other side of the camera.
 
-My proposal is to create a system in which Bill Bratton's privacy can be invaded at any given moment by people on twitter. I chose Bill Bratton because as the commissioner of the NYPD he represents an institution that exemplifies the type of power asymetry that is the subject of this project.
+My proposal is to create a system in which Bill Bratton's privacy can be invaded at any given moment by people on twitter. I chose Bill Bratton because as the commissioner of the NYPD he represents an institution that exemplifies the type of power asymmetry that is the subject of this project.  The aim of this project is to draw attention to and correct a specific asymmetry of power where those who are privileged enough to be behind the camera aren't necessarily aware of its 'chilling effect'.
 
 A camera will be placed strategically near the subjects house.  Whenever someone on tweets at a specific hashtag (still working on the hashtag), the camera will take a photo and send it to Commissioner Bratton as well as the the original tweeter.
 

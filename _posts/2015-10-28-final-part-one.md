@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Part One - Concept
+title: Final - Concept
 category: Physical Computing
 ---
 

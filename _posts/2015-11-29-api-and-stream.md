@@ -27,7 +27,7 @@ var Keys            =       require('./keys.js')();
 var fs              =       require('fs');
 {% endhighlight %}
 
-<p> These are my dependencies.  Using Express is a bit of overkill, but I did it because it rules also I realize now that some of this can be refactored as it relates to older versions of the same code. Multer is an awesome library that assists with file uploads. The other variable to pay attention to here is 'Keys'.  I set up a new file that is not tracked by git to add my twitter api keys so that when I push this to github my private information will not be public.</p>
+<p> These are my dependencies.  Using Express is a bit of overkill, but I did it because it rules...also I realize now that some of this can be refactored as it relates to older versions of the same code. Multer is an awesome library that assists with file uploads. The other variable to pay attention to here is 'Keys'.  I set up a new file that is not tracked by git to add my twitter api keys so that when I push this to github my private information will not be public.</p>
 
 {% highlight javascript %}
 
@@ -66,7 +66,7 @@ app.use(multer({ dest: './uploads/',
 
 {% endhighlight %}
 
-<p>The above code sets up multer. The most important part of this code is the express.static('uploads') bit.  Here I declare the uploads folder as the place to serve static assets.  This way I will be able to see my uploaded photos without explicitly declaring routes. Likely there is a better way to do this.  I also declare the uploads directory to be where uploads are stored.</p>
+<p>The above code sets up multer. The most important part of this code is the express.static('uploads') bit.  Here I declare the uploads folder as the location to serve static assets from.  This way I will be able to see my uploaded photos without explicitly declaring routes. Likely there is a better way to do this.  I also declare the uploads directory to be where uploads are stored.</p>
 
 {% highlight javascript %}
 app.post('/api/photo',function(req,res){
@@ -115,4 +115,4 @@ app.listen(port, function() {
     stream.track('@dmehro');
 });
 {% endhighlight %}
-<p>The above code is the meat of the program.  It sets up the listener on the stream and tweets the photo in my uploads directory at users who tweet at me.</p>
+<p>The above code is the meat of the program.  It sets up the listener on the stream and tweets the photo in my uploads directory at users who tweet at me. Up next the code to take pictures with a Raspberry Pi and the code to send the photos to the above program.</p>
